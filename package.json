@@ -1,6 +1,6 @@
 {
   "name": "@cozybrian/cozy-ui",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "My personal component Library for react",
   "author": "Brian Newton",
   "license": "MIT",
@@ -15,7 +15,7 @@
   ],
   "types": "dist/index.d.ts",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/CozyBrian"
+    "@CozyBrian:registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^24.0.1",
